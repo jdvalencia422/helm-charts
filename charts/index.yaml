@@ -3,12 +3,12 @@ entries:
   observabilitysec:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-07-31T19:59:18.0770092-05:00"
+    created: "2022-07-31T20:28:44.7464239-05:00"
     description: A Helm chart for Kubernetes observabilty sec challenge
-    digest: bc5823de2e9fc314ac5660d61fae8faa4688df5f272f4f1cdc1a1bc1d0ca1ee1
+    digest: 294585bfe34764adc5db601a097a814f35ceee0c8aff4d964173834ad027601f
     name: observabilitysec
     type: application
     urls:
     - observabilitysec-0.0.1.tgz
     version: 0.0.1
-generated: "2022-07-31T19:59:18.0753886-05:00"
+generated: "2022-07-31T20:28:44.7458651-05:00"
